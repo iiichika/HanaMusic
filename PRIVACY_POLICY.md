@@ -62,4 +62,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：
 
 * **Developer / 开发者：** Kiho
-* **Email / 联系邮箱：** support@example.com
+* **Email / 联系邮箱：** toyamakasumi@outlook.com
