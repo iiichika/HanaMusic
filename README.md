@@ -1,5 +1,5 @@
 # HanaMusic
-**Hana Music is a music player focused on a clean, pure local listening experience.
+* Hana Music is a music player focused on a clean, pure local listening experience.
 
 ## Key Features:
 * • Local Audio Import & Playback: Import your own audio files via the system Files app or document picker and listen offline anytime.
@@ -8,5 +8,5 @@
 * • Refined Playback Controls: Features an immersive player, play queue management, sequential, single-track repeat, and shuffle modes.
 
 ## Privacy & Clean Experience:
-• No account registration or sign-in required.
-• No ads and no third-party tracking or analytics—all audio files and playlist data are stored strictly locally on your device.
+* • No account registration or sign-in required.
+* • No ads and no third-party tracking or analytics—all audio files and playlist data are stored strictly locally on your device.
